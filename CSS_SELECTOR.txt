@@ -1,0 +1,51 @@
+// Test case assignment for Junior Data Engineer
+
+
+// 1. Publication Date
+document.querySelector("#block-views-block-view-noticia-pbh-block-5 > div > div > div > div > div > 
+div.views-field.views-field-nothing > span > span:nth-child(1) > span > font > font");
+
+//2. Binding Date
+document.querySelector("#block-views-block-view-noticia-pbh-block-5 > div > div > div > div > div > 
+div.views-field.views-field-nothing > span > span:nth-child(19) > span > font > font")
+<font style="vertical-align: inherit;">BIDDING DATE:</font>
+
+//3. Object
+document.querySelector("#block-views-block-view-noticia-pbh-block-5 > div > div > div > div > div > 
+div.views-field.views-field-nothing > span > span:nth-child(4) > span > font > font")
+<font style="vertical-align: inherit;">OBJECT:</font>
+
+//4. Links
+
+// Link 1: 
+document.querySelector("#block-views-block-view-noticia-pbh-block-5 > div > div > div > div > div > 
+div.views-field.views-field-field-historico-da-licitacao > div > table > tbody > tr:nth-child(1) > 
+td:nth-child(2) > div > div > div > a")
+<a href="http://portal6.pbh.gov.br/dom/iniciaEdicao.do?method=DetalheArtigo&amp;pk=1235349" target="_blank">
+<img src="/sites/default/files/imagens/%C3%8Dcones/ico_link_dom.gif" width="23" height="15" alt="Access information" 
+title="Access information" typeof="Image"></a>
+
+//Link 2:
+document.querySelector("#block-views-block-view-noticia-pbh-block-5 > div > div > div > div > div > 
+div.views-field.views-field-field-historico-da-licitacao > div > table > tbody > tr:nth-child(2) > 
+td:nth-child(2) > div > div > div > a")
+<a href="http://portal6.pbh.gov.br/dom/iniciaEdicao.do?method=DetalheArtigo&amp;pk=1239614" target="_blank">
+<img src="/sites/default/files/imagens/%C3%8Dcones/ico_link_dom.gif" width="23" height="15" alt="Access information" 
+title="Access information" typeof="Image"></a>
+
+// Link 3: 
+document.querySelector("#block-views-block-view-noticia-pbh-block-5 > div > div > div > div > div > 
+div.views-field.views-field-field-historico-da-licitacao > div > table > tbody > tr:nth-child(3) > 
+td:nth-child(2) > div > div > div > a")
+<a href="https://www.licitacoes-e.com.br/aop/consultar-detalhes-licitacao.aop?numeroLicitacao=852045&amp;opcao=consultarDetalhesLicitacao" 
+target="_blank" rel="noopener noreferrer">
+<img src="/sites/default/files/imagens/%C3%8Dcones/ico_link_dom.gif" width="23" height="15" alt="Access information" 
+title="Access information" typeof="Image"></a>
+
+// Link 4:
+document.querySelector("#block-views-block-view-noticia-pbh-block-5 > div > div > div > div > div > 
+div.views-field.views-field-field-historico-da-licitacao > div > table > tbody > tr:nth-child(4) > 
+td:nth-child(2) > div > div > div > a")
+<a href="http://portal6.pbh.gov.br/dom/iniciaEdicao.do?method=DetalheArtigo&amp;pk=1241350" target="_blank">
+<img src="/sites/default/files/imagens/%C3%8Dcones/ico_link_dom.gif" width="23" height="15" alt="Access information" 
+title="Access information" typeof="Image"></a>
